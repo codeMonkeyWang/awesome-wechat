@@ -16,3 +16,9 @@
 ### 推广
 * [生成长按识别二维码图片 ](http://mp.113dh.com/)
 
+
+## 网络课程
+### 收费课程
+* 桑世龙在stuQ的教程[系统掌握Node.js开发方法及微信开发实践](http://www.stuq.org/course/detail/1059)
+* 慕课网的课程[7天搞定Node.js微信公众号开发](http://coding.imooc.com/class/38.html)
+
